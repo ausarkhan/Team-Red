@@ -1,4 +1,4 @@
-package src.main.java.teamred;
+package teamred;
 
 public class Diver {
     
